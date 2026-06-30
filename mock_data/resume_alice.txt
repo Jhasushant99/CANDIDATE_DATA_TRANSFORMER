@@ -1,0 +1,23 @@
+ALICE JOHNSON
+alice.j@outlook.com | (555) 987-6543 | New York, NY
+https://github.com/alicej
+
+SUMMARY
+Senior Software Engineer with 8 years of experience building high-scale Python applications.
+
+EXPERIENCE
+Netflix - Senior Engineer
+2023-01 - Present
+- Led a team of 4 engineers building recommendation APIs.
+- Technologies: Python, Docker, AWS.
+
+Slack - Software Engineer
+2019-06 - 2022-12
+- Designed real-time messaging features using Go.
+
+EDUCATION
+Columbia University
+MS in Computer Science (2017 - 2019)
+
+SKILLS
+Python, Go, Docker, AWS, SQL, React

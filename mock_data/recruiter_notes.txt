@@ -1,0 +1,31 @@
+Candidate Interview Notes: John Doe
+Date: June 2026
+Interviewer: Alice Green
+Notes:
+- Spoke with John Doe today. Can be reached at john.doe@gmail.com or by phone at +1 555 019 9234.
+- Currently works as a Software Engineer at Google.
+- Has about 5 years of professional software engineering experience.
+- Technical skills: Python, React.js, AWS, and Docker.
+- Expressed interest in working on distributed systems.
+- Lives in San Francisco, CA, USA.
+
+---
+
+Candidate Interview Notes: Bob Miller
+Date: June 2026
+Interviewer: Alice Green
+Notes:
+- Talked with Bob Miller. Email: bob.miller@tech.com, Phone: 555-111-2222.
+- Former Product Manager at Apple.
+- Has strong Product Management and Agile Scrum skills.
+
+---
+
+Candidate Interview Notes: Charlie Green
+Date: June 2026
+Interviewer: Bob Smith
+Notes:
+- Interviewed Charlie Green today. Reach him at charlie.g@outlook.com or phone +1 555 888 9999.
+- Currently works as a DevOps Engineer at Amazon.
+- Technical skills: Kubernetes, AWS, SQL, and Docker.
+- Lives in Austin, TX, USA.

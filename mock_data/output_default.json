@@ -1,0 +1,146 @@
+[
+  {
+    "candidate_id": "fd8b0826-3b28-5f7a-82cc-ffd14c5db8d5",
+    "full_name": "john d.",
+    "emails": [
+      "john.doe@gmail.com",
+      "spam@gmail.com"
+    ],
+    "phones": [
+      "+15550199234"
+    ],
+    "location": {
+      "city": "San Francisco",
+      "region": "California",
+      "country": "US"
+    },
+    "links": {
+      "github": "https://github.com/johndoe",
+      "linkedin": "https://linkedin.com/in/johndoe"
+    },
+    "headline": "Software Engineer II",
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "Amazon Web Services",
+        "confidence": 0.6,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      },
+      {
+        "name": "Docker",
+        "confidence": 0.6,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      },
+      {
+        "name": "Java",
+        "confidence": 1.0,
+        "sources": [
+          "ats_blob.json"
+        ]
+      },
+      {
+        "name": "Machine Learning",
+        "confidence": 1.0,
+        "sources": [
+          "ats_blob.json"
+        ]
+      },
+      {
+        "name": "Python",
+        "confidence": 1.0,
+        "sources": [
+          "ats_blob.json",
+          "recruiter_notes.txt"
+        ]
+      },
+      {
+        "name": "React",
+        "confidence": 0.6,
+        "sources": [
+          "recruiter_notes.txt"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Software Engineer II",
+        "start": "2022-03",
+        "end": "Present",
+        "summary": "Worked on Google Search infrastructure."
+      },
+      {
+        "company": "Yahoo",
+        "title": "Junior Engineer",
+        "start": "2020-01",
+        "end": "2022-02",
+        "summary": "- Developed frontend features with React. - Supported CI/CD pipelines and Kubernetes deployments. "
+      }
+    ],
+    "education": [
+      {
+        "institution": "BS in Computer Science (2016 - 2019)",
+        "degree": "BS",
+        "field": "Computer Science",
+        "end_year": 2016
+      }
+    ],
+    "overall_confidence": 1.0
+  },
+  {
+    "candidate_id": "77989cb8-1cd9-5c3e-a57d-91fcfb7cd8a0",
+    "full_name": "Jane Smith",
+    "emails": [
+      "jane.smith@yahoo.com"
+    ],
+    "phones": [
+      "+447911123456"
+    ],
+    "location": {
+      "city": "London",
+      "region": null,
+      "country": "GB"
+    },
+    "links": {},
+    "headline": "Tech Lead",
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "Distributed Systems",
+        "confidence": 1.0,
+        "sources": [
+          "ats_blob.json"
+        ]
+      },
+      {
+        "name": "Go",
+        "confidence": 1.0,
+        "sources": [
+          "ats_blob.json"
+        ]
+      },
+      {
+        "name": "Kubernetes",
+        "confidence": 1.0,
+        "sources": [
+          "ats_blob.json"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Tech Lead",
+        "start": "2021-06",
+        "end": "Present",
+        "summary": "Led the infrastructure team."
+      }
+    ],
+    "education": [],
+    "overall_confidence": 0.9
+  }
+]

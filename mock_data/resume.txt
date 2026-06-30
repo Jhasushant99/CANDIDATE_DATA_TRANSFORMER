@@ -1,0 +1,24 @@
+JOHN DOE
+john.doe+spam@gmail.com | (555) 019-9234 | San Francisco, CA
+https://github.com/johndoe | https://linkedin.com/in/johndoe
+
+SUMMARY
+Experienced software developer specializing in backend services and cloud systems.
+
+EXPERIENCE
+Google - Software Engineer
+2022-03 - Present
+- Designed scalable API services using Python and Go.
+- Optimized database queries, reducing latency by 15%.
+
+Yahoo - Junior Engineer
+2020-01 - 2022-02
+- Developed frontend features with React.
+- Supported CI/CD pipelines and Kubernetes deployments.
+
+EDUCATION
+UT Austin
+BS in Computer Science (2016 - 2019)
+
+SKILLS
+Python, Go, Kubernetes, SQL, Docker, React

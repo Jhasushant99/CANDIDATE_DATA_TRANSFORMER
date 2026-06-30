@@ -1,0 +1,4 @@
+name,email,phone,current_company,title
+"John Doe",john.doe@gmail.com,"+1 555-019-9234","Google","Software Engineer"
+"Jane Smith",jane.smith@yahoo.com,"44-7911-123456","Meta","Tech Lead"
+"Alice Johnson",alice.j@outlook.com,"+1 (555) 987-6543","Netflix","Senior Engineer"

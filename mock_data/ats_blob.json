@@ -1,0 +1,55 @@
+[
+  {
+    "fullName": "john d.",
+    "emailAddress": "john.doe@gmail.com",
+    "telephone": "5550199234",
+    "city_location": "San Francisco",
+    "state_location": "California",
+    "country_name": "United States",
+    "skills_list": ["Python", "Java", "Machine Learning"],
+    "work_history": [
+      {
+        "employer": "Google",
+        "role_title": "Software Engineer II",
+        "started": "2022-03-01",
+        "ended": "",
+        "notes": "Worked on Google Search infrastructure."
+      }
+    ]
+  },
+  {
+    "fullName": "Jane Smith",
+    "emailAddress": "jane.smith@yahoo.com",
+    "telephone": "+44 7911 123456",
+    "city_location": "London",
+    "country_name": "United Kingdom",
+    "skills_list": ["Go", "Distributed Systems", "Kubernetes"],
+    "work_history": [
+      {
+        "employer": "Meta",
+        "role_title": "Tech Lead",
+        "started": "2021-06-01",
+        "ended": null,
+        "notes": "Led the infrastructure team."
+      }
+    ]
+  },
+  {
+    "fullName": "Bob Miller",
+    "emailAddress": "bob.miller@tech.com",
+    "telephone": "555-111-2222",
+    "city_location": "Seattle",
+    "state_location": "WA",
+    "country_name": "USA",
+    "skills_list": ["Product Management", "Agile", "SQL"],
+    "work_history": [
+      {
+        "employer": "Apple",
+        "role_title": "Product Manager",
+        "started": "2020-10-15",
+        "ended": "2023-12-31",
+        "notes": "Managed product lifecycle for internal apps."
+      }
+    ]
+  }
+]

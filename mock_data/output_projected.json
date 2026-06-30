@@ -1,0 +1,68 @@
+[
+  {
+    "full_name": "john d.",
+    "primary_email": "john.doe@gmail.com",
+    "phone": "+15550199234",
+    "skills": [
+      "Amazon Web Services",
+      "Docker",
+      "Go",
+      "Java",
+      "JavaScript",
+      "Kubernetes",
+      "Machine Learning",
+      "Python",
+      "React",
+      "SQL"
+    ],
+    "overall_confidence": 1.0
+  },
+  {
+    "full_name": "Jane Smith",
+    "primary_email": "jane.smith@yahoo.com",
+    "phone": "+447911123456",
+    "skills": [
+      "Distributed Systems",
+      "Go",
+      "Kubernetes"
+    ],
+    "overall_confidence": 0.9
+  },
+  {
+    "full_name": "Alice Johnson",
+    "primary_email": "alice.j@outlook.com",
+    "phone": "+15559876543",
+    "skills": [
+      "Amazon Web Services",
+      "Docker",
+      "Go",
+      "Python",
+      "React",
+      "SQL"
+    ],
+    "overall_confidence": 0.8
+  },
+  {
+    "full_name": "Bob Miller",
+    "primary_email": "bob.miller@tech.com",
+    "phone": "+15551112222",
+    "skills": [
+      "Agile",
+      "Product Management",
+      "SQL"
+    ],
+    "overall_confidence": 0.9
+  },
+  {
+    "full_name": "Charlie Green",
+    "primary_email": "charlie.g@outlook.com",
+    "phone": "+15558889999",
+    "skills": [
+      "Amazon Web Services",
+      "Docker",
+      "Kubernetes",
+      "SQL"
+    ],
+    "overall_confidence": 0.55
+  }
+]
